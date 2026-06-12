@@ -1,0 +1,52 @@
+{
+  "slug": "boston-motion",
+  "client": "Boston Scientific",
+  "industry": "Tecnología en salud · Colombia",
+  "services": [
+    "Producción creativa",
+    "Diseño y motion graphics",
+    "Desarrollo de guiones",
+    "Gestión de operaciones"
+  ],
+  "year": "2024–2026",
+  "tagline": "Tecnología compleja, comunicada con claridad.",
+  "coverImage": "/cases/lucy_01.jpg",
+  "coverColor": "#0d0f1a",
+  "featured": true,
+  "order": 7,
+  "context": "Desarrollamos piezas de motion graphics para explicar dos aplicaciones clave de Boston Scientific: Lucy, un agente virtual, y Predictiva, un agente de análisis de datos. Sazú se encargó de la producción integral, desde guiones hasta animación. Actualmente somos la agencia de producción creativa del área de innovación y endobariatría de BSCI.",
+  "challenge": "Tomar tecnología de punta y traducirla en mensajes que cualquier persona dentro de la organización pudiera entender y apropiarse — comunicar innovación sin perder claridad.",
+  "solution": "Motion graphics como puente entre la innovación y las personas. Piezas que explican Lucy y Predictiva con claridad visual, desde el guión hasta la animación final.",
+  "process": [
+    {
+      "phase": "Guiones",
+      "description": "Desarrollo de narrativas que traducen la tecnología en lenguaje accesible."
+    },
+    {
+      "phase": "Diseño",
+      "description": "Dirección de arte y diseño de motion graphics alineado con Boston Scientific."
+    },
+    {
+      "phase": "Animación",
+      "description": "Producción completa de piezas animadas para Lucy y Predictiva."
+    },
+    {
+      "phase": "Gestión",
+      "description": "Acompañamiento continuo como agencia de producción creativa del área de innovación."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://www.youtube.com/watch?v=VY-8Q_Yr6Hg",
+      "alt": "Lucy - Boston Scientific",
+      "type": "video"
+    },
+    {
+      "src": "https://www.youtube.com/watch?v=8G-XdbjzEBM",
+      "alt": "Predictiva - Boston Scientific",
+      "type": "video"
+    }
+  ],
+  "closingParagraph": "El reto era tomar tecnología de punta y traducirla en mensajes que cualquier persona dentro de la organización pudiera entender y apropiarse. Motion graphics como puente entre la innovación y las personas."
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "boston-scientific",
+  "client": "Boston Scientific",
+  "industry": "Salud · Colombia",
+  "services": [
+    "Estrategia de marca",
+    "Identidad visual",
+    "Estrategia de comunicación",
+    "Contenidos digitales",
+    "Plataforma educativa"
+  ],
+  "year": "2024",
+  "tagline": "Una plataforma para conectar pacientes, médicos y conocimiento.",
+  "coverImage": "/cases/hub-1.jpg",
+  "coverColor": "#10140f",
+  "featured": true,
+  "order": 5,
+  "context": "Creamos Hub Bariátrico como una marca blanca para Boston Scientific, diseñada para abrir una conversación más clara, confiable y cercana sobre obesidad, tratamientos bariátricos y salud metabólica. El proyecto partió de la necesidad de construir una plataforma de comunicación que conectara pacientes, médicos aliados y contenido educativo, sin depender del lenguaje corporativo de la marca madre.",
+  "challenge": "Crear un ecosistema de marca para Hub Bariátrico que educara a médicos y pacientes sobre los procedimientos endoscópicos como alternativa menos invasiva, en un mercado dominado por la cirugía convencional y marcado por el estigma.",
+  "solution": "Desarrollamos la identidad completa de Hub Bariátrico — nombre, marca visual, tono de comunicación y estrategia de contenidos — con el concepto central: 'El cambio empieza hoy'. Una marca dentro de una marca que opera con autonomía pero respaldada por Boston Scientific.",
+  "process": [
+    {
+      "phase": "Naming",
+      "description": "Desarrollo y validación del nombre Hub Bariátrico para el mercado colombiano."
+    },
+    {
+      "phase": "Identidad",
+      "description": "Sistema visual con gradiente azul-rosado que evoca el cuerpo y la transformación."
+    },
+    {
+      "phase": "Contenidos",
+      "description": "Estrategia editorial para redes sociales médicas y canales de pacientes."
+    },
+    {
+      "phase": "Activación",
+      "description": "Lanzamiento en eventos médicos y canales digitales especializados."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://youtu.be/Kr4HIppZ6RE",
+      "alt": "Video Hub Bariátrico",
+      "type": "video"
+    },
+    {
+      "src": "/cases/hub-2.jpg",
+      "alt": "Identidad Hub Bariátrico"
+    },
+    {
+      "src": "/cases/hub-3.jpg",
+      "alt": "Contenidos Hub Bariátrico"
+    },
+    {
+      "src": "/cases/hub-4.jpg",
+      "alt": "Plataforma Hub Bariátrico"
+    },
+    {
+      "src": "/cases/hub-5.jpg",
+      "alt": "Activación Hub Bariátrico"
+    }
+  ],
+  "closingParagraph": "Boston Scientific necesitaba comunicar soluciones bariátricas en un territorio donde el estigma, la desinformación y el miedo muchas veces alejan a las personas de buscar ayuda. Hub Bariátrico nació como un ecosistema flexible de contenidos, mensajes y recursos visuales — con autoridad médica, empatía y acción."
+}

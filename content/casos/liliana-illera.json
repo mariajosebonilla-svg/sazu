@@ -1,0 +1,60 @@
+{
+  "slug": "liliana-illera",
+  "client": "Liliana Illera",
+  "industry": "Salud · Colombia",
+  "services": [
+    "Identidad de marca",
+    "Estrategia de comunicación",
+    "Estrategia de contenidos",
+    "Creación de contenidos",
+    "Documental"
+  ],
+  "year": "2025",
+  "tagline": "Evolucionar sin perder la esencia.",
+  "coverImage": "/cases/liliana.jpeg",
+  "coverColor": "#14100e",
+  "featured": true,
+  "order": 1,
+  "context": "Liliana Illera es una agencia exclusiva de Colsanitas especializada en asesoría de planes de salud. Rediseñamos una identidad visual guiada por una estrategia de comunicación que permitiera visibilizar la evolución de Liliana Illera Agente de Medicina Prepagada, sin dejar de lado el legado, la historia y la confianza construida durante más de 30 años.",
+  "challenge": "El reto no era modernizar un logo, sino construir una identidad capaz de reflejar la trayectoria, la experiencia y el momento actual de negocio de Liliana Illera, equilibrando la solidez institucional de Colsanitas con la calidez y el trato personalizado.",
+  "solution": "Antes de diseñar, trabajamos en redefinir el relato de marca. El resultado fue una identidad más clara, actual y coherente, pero profundamente conectada con su historia — con tipografía script personalizada y una paleta azul-verde que transmite confianza y cercanía.",
+  "process": [
+    {
+      "phase": "Diagnóstico",
+      "description": "Análisis del mercado de salud y posicionamiento competitivo de Colsanitas."
+    },
+    {
+      "phase": "Identidad",
+      "description": "Diseño de logotipo, paleta cromática y sistema tipográfico."
+    },
+    {
+      "phase": "Aplicaciones",
+      "description": "Manual de marca, plantillas digitales y redes sociales."
+    },
+    {
+      "phase": "Activación",
+      "description": "Lanzamiento de presencia digital y documental de marca."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://www.youtube.com/watch?v=3vpp2zyx0iY",
+      "alt": "Documental Liliana Illera",
+      "type": "video"
+    },
+    {
+      "src": "/cases/liliana-2.jpeg",
+      "alt": "Identidad visual Liliana Illera"
+    },
+    {
+      "src": "/cases/liliana-3.png",
+      "alt": "Sistema gráfico Liliana Illera"
+    },
+    {
+      "src": "/cases/liliana-4.jpeg",
+      "alt": "Aplicaciones de marca Liliana Illera"
+    }
+  ],
+  "closingParagraph": "Liliana Illera estaba atravesando un momento de evolución que exigía mucho más que una actualización visual. El reto no era modernizar un logo, sino construir una identidad capaz de reflejar su trayectoria, su experiencia y su momento actual de negocio. Antes de diseñar, trabajamos en redefinir el relato de marca. El resultado fue una identidad más clara, actual y coherente, pero profundamente conectada con su historia."
+}

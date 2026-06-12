@@ -1,0 +1,52 @@
+{
+  "slug": "fundacion-santa-fe",
+  "client": "Fundación Santa Fe de Bogotá",
+  "industry": "Salud · Colombia",
+  "services": [
+    "Animación en 2D",
+    "Diseño de personajes",
+    "Guión y Storytelling",
+    "Adaptación a app"
+  ],
+  "year": "2025",
+  "tagline": "Animación que cuida.",
+  "coverImage": "/cases/fundacion_01.jpg",
+  "coverColor": "#130f1a",
+  "featured": true,
+  "order": 6,
+  "context": "Creamos 100 videos animados en 2D sobre depresión, estrés asintomático y ansiedad para los empleados de la Fundación Santa Fe de Bogotá. Sazú lideró todas las fases: preproducción (diseño de personajes y narrativa), producción (animación completa) y postproducción (montaje visual y de audio). Los guiones fueron validados con médicos y el contenido fue entregado en una aplicación.",
+  "challenge": "Traducir temas de salud mental complejos en contenido animado que pudiera hablar de temas difíciles con claridad, calidez y sin estigma, para los empleados de una institución médica de excelencia.",
+  "solution": "Construimos un universo de personajes y narrativas con rigor médico y calidez humana. 100 videos validados por especialistas, entregados en app, capaces de hablar de depresión, estrés y ansiedad de forma accesible.",
+  "process": [
+    {
+      "phase": "Preproducción",
+      "description": "Diseño de personajes, narrativa y guiones validados con médicos especialistas."
+    },
+    {
+      "phase": "Producción",
+      "description": "Animación completa en 2D de 100 videos sobre salud mental."
+    },
+    {
+      "phase": "Postproducción",
+      "description": "Montaje visual y de audio, optimización para app."
+    },
+    {
+      "phase": "Entrega",
+      "description": "Adaptación y entrega del contenido en plataforma de aplicación interna."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://www.youtube.com/watch?v=tMKxQIAQhdM",
+      "alt": "Animación Fundación Santa Fe",
+      "type": "video"
+    },
+    {
+      "src": "https://www.youtube.com/watch?v=Tos8m_u1qoA",
+      "alt": "Video Fundación Santa Fe 2",
+      "type": "video"
+    }
+  ],
+  "closingParagraph": "Cuando la salud mental de los empleados está en juego, el contenido tiene que ser a la vez riguroso y humano. Construimos un universo de personajes y narrativas capaz de hablar de temas difíciles con claridad, calidez y sin estigma."
+}

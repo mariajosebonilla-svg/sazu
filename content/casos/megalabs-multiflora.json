@@ -1,0 +1,69 @@
+{
+  "slug": "megalabs-multiflora",
+  "client": "Megalabs",
+  "industry": "Salud y bienestar · Colombia",
+  "services": [
+    "Estrategia",
+    "Mensajes de marca",
+    "Sistema visual",
+    "Motion graphics",
+    "Diseño de piezas",
+    "Manual de marca"
+  ],
+  "year": "2024",
+  "tagline": "Flexibilidad para una marca con propósito.",
+  "coverImage": "/cases/multiflora-1.png",
+  "coverColor": "#0f1118",
+  "featured": true,
+  "order": 2,
+  "context": "Partimos de una marca existente para construir un universo visual más flexible, coherente y alineado con la estrategia de negocio de Multiflora. El proyecto comenzó por entender la propuesta de valor del producto, diseñar mensajes poderosos para su posicionamiento y desarrollar un sistema gráfico capaz de adaptarse a diferentes formatos, canales y audiencias.",
+  "challenge": "Comunicar de forma accesible un concepto técnico — la biodiversidad de la flora intestinal — a audiencias tan distintas como médicos, adultos y niños, sin cambiar la marca sino ampliar sus posibilidades.",
+  "solution": "Desarrollamos un universo visual completo bajo el concepto 'Promueve la biodiversidad de tu flora intestinal', con piezas para OOH, redes sociales y punto de venta. Un sistema gráfico flexible que le permitió a Multiflora crecer y comunicar con mayor claridad.",
+  "process": [
+    {
+      "phase": "Concepto",
+      "description": "Desarrollo del insight creativo y mensajes de posicionamiento."
+    },
+    {
+      "phase": "Sistema visual",
+      "description": "Piezas para OOH, redes sociales y punto de venta."
+    },
+    {
+      "phase": "Producción",
+      "description": "Dirección de arte, sesiones fotográficas y motion graphics."
+    },
+    {
+      "phase": "Manual de marca",
+      "description": "Documentación del sistema para uso interno y agencias."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://youtu.be/YYsf-tvho4E?si=mEHC_eSpBtOhyFsn",
+      "alt": "Motion graphics Multiflora",
+      "type": "video"
+    },
+    {
+      "src": "/cases/multiflora-2.png",
+      "alt": "Sistema visual Multiflora"
+    },
+    {
+      "src": "/cases/multiflora-3.png",
+      "alt": "Piezas OOH Multiflora"
+    },
+    {
+      "src": "/cases/multiflora-4.png",
+      "alt": "Campaña Multiflora"
+    },
+    {
+      "src": "/cases/multiflora-5.png",
+      "alt": "Multiflora redes sociales"
+    },
+    {
+      "src": "/cases/multiflora-6.png",
+      "alt": "Multiflora punto de venta"
+    }
+  ],
+  "closingParagraph": "Multiflora ya tenía una identidad, pero necesitaba un universo visual que le permitiera crecer y comunicar con mayor claridad. El reto no era cambiar la marca, sino ampliar sus posibilidades para que pudiera responder mejor a su estrategia de negocio y hablar con coherencia a audiencias tan distintas como médicos, adultos y niños."
+}

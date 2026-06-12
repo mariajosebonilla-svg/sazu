@@ -1,0 +1,47 @@
+{
+  "slug": "engel-volkers",
+  "client": "Engel & Völkers",
+  "industry": "Inmobiliario · Colombia",
+  "services": [
+    "Producción creativa",
+    "Diseño y motion graphics",
+    "Desarrollo de guiones",
+    "Gestión de operaciones"
+  ],
+  "year": "2024–2026",
+  "tagline": "El sector más complejo, explicado en segundos.",
+  "coverImage": "/cases/engel_01.jpg",
+  "coverColor": "#0f0e0a",
+  "featured": true,
+  "order": 8,
+  "context": "Desde 2024, Sazú es la agencia creativa de Engel & Völkers. Acompañamos la marca en la definición de su estrategia de comunicación y en la producción creativa de contenidos, utilizando motion graphics para traducir la complejidad del sector inmobiliario en mensajes claros, visuales y fáciles de entender.",
+  "challenge": "Comunicar el estándar internacional de lujo de Engel & Völkers adaptado al comprador colombiano sofisticado, en un mercado donde la confianza y el expertise local son factores decisivos.",
+  "solution": "Convertimos cada etapa del proceso de compraventa en una pieza visual que genera confianza y reduce la fricción — motion graphics que explican en segundos lo que antes tomaba páginas.",
+  "process": [
+    {
+      "phase": "Diagnóstico",
+      "description": "Análisis del funnel de conversión y perfil del comprador premium en Colombia."
+    },
+    {
+      "phase": "Estrategia",
+      "description": "Definición de canales, mensajes y tácticas de comunicación."
+    },
+    {
+      "phase": "Producción",
+      "description": "Motion graphics para redes sociales, web y eventos."
+    },
+    {
+      "phase": "Gestión",
+      "description": "Acompañamiento continuo como agencia creativa desde 2024."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://youtu.be/VGd2qRdT_vg",
+      "alt": "Motion graphics Engel & Völkers",
+      "type": "video"
+    }
+  ],
+  "closingParagraph": "El mercado inmobiliario está lleno de procesos que los clientes no entienden. Nuestra apuesta fue convertir cada etapa del proceso de compraventa en una pieza visual que genera confianza y reduce la fricción."
+}

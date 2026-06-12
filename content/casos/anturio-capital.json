@@ -1,0 +1,54 @@
+{
+  "slug": "anturio-capital",
+  "client": "Anturio Capital Strategy",
+  "industry": "Infraestructura y financiación · Colombia",
+  "services": [
+    "Estrategia de marca",
+    "Identidad visual",
+    "Sistema gráfico"
+  ],
+  "year": "2024",
+  "tagline": "Confianza visual para una firma de capital estratégico.",
+  "coverImage": "/cases/anturio-0.png",
+  "coverColor": "#0e1115",
+  "featured": true,
+  "order": 3,
+  "context": "Creamos una identidad visual moderna y confiable para Anturio Capital Strategy, una consultora y financiadora de proyectos de infraestructura en Colombia, Perú, Chile, Paraguay y Uruguay. El proyecto buscó traducir su experiencia, solidez y visión estratégica en una marca capaz de proyectar profesionalismo, claridad y confianza frente a inversionistas, aliados y clientes.",
+  "challenge": "Diseñar una marca que transmitiera confianza a grandes inversionistas institucionales, sin perder la agilidad y visión estratégica que diferencia a Anturio de las firmas tradicionales del sector.",
+  "solution": "Construimos una identidad visual sobria y poderosa, con un sistema de comunicación corporativa que refuerza el expertise regional y la capacidad de estructurar operaciones complejas en múltiples mercados.",
+  "process": [
+    {
+      "phase": "Research",
+      "description": "Análisis del ecosistema de financiación de infraestructura en Latinoamérica."
+    },
+    {
+      "phase": "Naming & Estrategia",
+      "description": "Afinación del posicionamiento y arquitectura de marca."
+    },
+    {
+      "phase": "Identidad",
+      "description": "Desarrollo de sistema visual para entornos digitales y presentaciones institucionales."
+    },
+    {
+      "phase": "Materiales",
+      "description": "Diseño de pitch decks, informes de gestión y materiales para roadshows."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "/cases/anturio-1.png",
+      "alt": "Identidad Anturio Capital Strategy",
+      "size": "full"
+    },
+    {
+      "src": "/cases/anturio-2.png",
+      "alt": "Sistema gráfico Anturio"
+    },
+    {
+      "src": "/cases/anturio-3.png",
+      "alt": "Aplicaciones Anturio Capital"
+    }
+  ],
+  "closingParagraph": "Anturio necesitaba una identidad capaz de reflejar la seguridad y el criterio estratégico que exige el manejo de fondos para proyectos de infraestructura. Desarrollamos un sistema visual inspirado en la conexión, la dirección y la visión estratégica — moderno, sólido y memorable, que transmitiera confianza sin perder dinamismo."
+}

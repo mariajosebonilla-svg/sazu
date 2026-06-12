@@ -1,0 +1,69 @@
+{
+  "slug": "scotiabank",
+  "client": "Scotiabank",
+  "industry": "Tecnología y servicios financieros · Colombia",
+  "services": [
+    "Estrategia de comunicación",
+    "Estrategia de marca",
+    "Identidad visual",
+    "Ilustración",
+    "Sistema gráfico"
+  ],
+  "year": "2023",
+  "tagline": "Una identidad para conectar cultura, tecnología e innovación.",
+  "coverImage": "/cases/scotiatech-5.png",
+  "coverColor": "#0d1012",
+  "featured": true,
+  "order": 4,
+  "context": "Diseñamos una estrategia de marca y un universo visual para ScotiaTech, alineado con la herencia de Scotiabank, pero con una identidad propia, cercana y diferenciada. El proyecto buscó traducir la cultura, los valores y la visión tecnológica de la organización en un sistema visual flexible, capaz de vivir en diferentes canales y conectar con la comunidad de Scotiabankers.",
+  "challenge": "Adaptar los lineamientos globales de marca de Scotiabank al contexto colombiano, construyendo una identidad que conservara la confianza institucional pero que expresara el carácter innovador, tecnológico y humano de ScotiaTech.",
+  "solution": "A partir de una comprensión profunda de la cultura interna, desarrollamos un universo gráfico con personajes, ilustraciones y recursos visuales que le dieron personalidad propia a la marca, capaz de competir con los neobancos locales.",
+  "process": [
+    {
+      "phase": "Auditoría",
+      "description": "Revisión de touchpoints digitales y análisis de la cultura interna de ScotiaTech."
+    },
+    {
+      "phase": "Estrategia",
+      "description": "Definición del universo de marca y tono de comunicación para el mercado local."
+    },
+    {
+      "phase": "Diseño",
+      "description": "Desarrollo de personajes, ilustraciones y sistema visual flexible."
+    },
+    {
+      "phase": "Entrega",
+      "description": "Handoff a equipos de tecnología con guías de implementación."
+    }
+  ],
+  "results": [],
+  "gallery": [
+    {
+      "src": "https://youtu.be/3jhByGq2B04",
+      "alt": "Motion ScotiaTech",
+      "type": "video"
+    },
+    {
+      "src": "https://www.youtube.com/watch?v=idVv-yXhZBM",
+      "alt": "Video ScotiaTech 2",
+      "type": "video"
+    },
+    {
+      "src": "/cases/scotiatech-2.png",
+      "alt": "Sistema visual ScotiaTech"
+    },
+    {
+      "src": "/cases/scotiatech-3.png",
+      "alt": "Ilustraciones ScotiaTech"
+    },
+    {
+      "src": "/cases/scotiatech-4.png",
+      "alt": "Aplicaciones ScotiaTech"
+    },
+    {
+      "src": "/cases/scotiatech-5.png",
+      "alt": "Personajes ScotiaTech"
+    }
+  ],
+  "closingParagraph": "ScotiaTech tenía el reto de construir una identidad que conservara la confianza de Scotiabank, pero que expresara su carácter innovador, tecnológico y humano. A partir de una comprensión profunda de la cultura interna, desarrollamos un universo gráfico con personajes, ilustraciones y recursos visuales que le dieron personalidad propia a la marca."
+}
