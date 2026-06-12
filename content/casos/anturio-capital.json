@@ -9,7 +9,7 @@
   ],
   "year": "2024",
   "tagline": "Confianza visual para una firma de capital estratégico.",
-  "coverImage": "/cases/anturio-0.png",
+  "coverImage": "/anturio-0.png",
   "coverColor": "#0e1115",
   "featured": true,
   "order": 3,
@@ -37,16 +37,16 @@
   "results": [],
   "gallery": [
     {
-      "src": "/cases/anturio-1.png",
+      "src": "/anturio-1.png",
       "alt": "Identidad Anturio Capital Strategy",
       "size": "full"
     },
     {
-      "src": "/cases/anturio-2.png",
+      "src": "/anturio-2.png",
       "alt": "Sistema gráfico Anturio"
     },
     {
-      "src": "/cases/anturio-3.png",
+      "src": "/anturio-3.png",
       "alt": "Aplicaciones Anturio Capital"
     }
   ],
