@@ -11,7 +11,7 @@
   ],
   "year": "2025",
   "tagline": "Evolucionar sin perder la esencia.",
-  "coverImage": "/cases/liliana.jpeg",
+  "coverImage": "/liliana.jpeg",
   "coverColor": "#14100e",
   "featured": true,
   "order": 1,
@@ -44,15 +44,15 @@
       "type": "video"
     },
     {
-      "src": "/cases/liliana-2.jpeg",
+      "src": "/liliana-2.jpeg",
       "alt": "Identidad visual Liliana Illera"
     },
     {
-      "src": "/cases/liliana-3.png",
+      "src": "/liliana-3.png",
       "alt": "Sistema gráfico Liliana Illera"
     },
     {
-      "src": "/cases/liliana-4.jpeg",
+      "src": "/liliana-4.jpeg",
       "alt": "Aplicaciones de marca Liliana Illera"
     }
   ],
