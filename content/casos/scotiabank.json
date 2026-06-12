@@ -11,7 +11,7 @@
   ],
   "year": "2023",
   "tagline": "Una identidad para conectar cultura, tecnología e innovación.",
-  "coverImage": "/cases/scotiatech-5.png",
+  "coverImage": "/scotiatech-5.png",
   "coverColor": "#0d1012",
   "featured": true,
   "order": 4,
@@ -49,19 +49,19 @@
       "type": "video"
     },
     {
-      "src": "/cases/scotiatech-2.png",
+      "src": "/scotiatech-2.png",
       "alt": "Sistema visual ScotiaTech"
     },
     {
-      "src": "/cases/scotiatech-3.png",
+      "src": "/scotiatech-3.png",
       "alt": "Ilustraciones ScotiaTech"
     },
     {
-      "src": "/cases/scotiatech-4.png",
+      "src": "/scotiatech-4.png",
       "alt": "Aplicaciones ScotiaTech"
     },
     {
-      "src": "/cases/scotiatech-5.png",
+      "src": "/scotiatech-5.png",
       "alt": "Personajes ScotiaTech"
     }
   ],
