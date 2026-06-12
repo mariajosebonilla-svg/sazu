@@ -12,7 +12,7 @@
   ],
   "year": "2024",
   "tagline": "Flexibilidad para una marca con propósito.",
-  "coverImage": "/cases/multiflora-1.png",
+  "coverImage": "/multiflora-1.png",
   "coverColor": "#0f1118",
   "featured": true,
   "order": 2,
@@ -45,23 +45,23 @@
       "type": "video"
     },
     {
-      "src": "/cases/multiflora-2.png",
+      "src": "/multiflora-2.png",
       "alt": "Sistema visual Multiflora"
     },
     {
-      "src": "/cases/multiflora-3.png",
+      "src": "/multiflora-3.png",
       "alt": "Piezas OOH Multiflora"
     },
     {
-      "src": "/cases/multiflora-4.png",
+      "src": "/multiflora-4.png",
       "alt": "Campaña Multiflora"
     },
     {
-      "src": "/cases/multiflora-5.png",
+      "src": "/multiflora-5.png",
       "alt": "Multiflora redes sociales"
     },
     {
-      "src": "/cases/multiflora-6.png",
+      "src": "/multiflora-6.png",
       "alt": "Multiflora punto de venta"
     }
   ],
